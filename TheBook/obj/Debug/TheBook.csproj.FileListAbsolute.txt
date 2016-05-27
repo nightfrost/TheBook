@@ -1,0 +1,14 @@
+c:\users\sanic\documents\visual studio 2013\Projects\TheBook\TheBook\bin\Debug\TheBook.exe.config
+c:\users\sanic\documents\visual studio 2013\Projects\TheBook\TheBook\bin\Debug\TheBookContacts.mdf
+c:\users\sanic\documents\visual studio 2013\Projects\TheBook\TheBook\bin\Debug\TheBookContacts_log.ldf
+c:\users\sanic\documents\visual studio 2013\Projects\TheBook\TheBook\bin\Debug\TheBook.exe
+c:\users\sanic\documents\visual studio 2013\Projects\TheBook\TheBook\bin\Debug\TheBook.pdb
+c:\users\sanic\documents\visual studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.csprojResolveAssemblyReference.cache
+c:\users\sanic\documents\visual studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.ConnectInformation.resources
+c:\users\sanic\documents\visual studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.Login.resources
+c:\users\sanic\documents\visual studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.MainPage.resources
+c:\users\sanic\documents\visual studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.Properties.Resources.resources
+c:\users\sanic\documents\visual studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.csproj.GenerateResource.Cache
+c:\users\sanic\documents\visual studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.exe
+c:\users\sanic\documents\visual studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.pdb
+C:\Users\Sanic\documents\visual studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.Register.resources
