@@ -25,7 +25,7 @@ namespace TheBook
             passwordBox.MaxLength = 14;
             passwordBox.Text = "Enter Password";
             
-            frontImage.Image = Image.FromFile(picturePath);
+            //frontImage.Image = Image.FromFile(picturePath);
         }
 
 

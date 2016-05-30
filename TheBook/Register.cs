@@ -27,7 +27,11 @@ namespace TheBook
         {
             if (regPassword.Text == regConfPassword.Text)
             {
-                string connectionString = "123"; //Fix this
+                string connectionString = "Data Source=lrdwin81d;" +
+                "Initial Catalog=TheBookContacts;" +
+                "User id=lrd;" +
+                "Password=kairi1273;";
+
                 try { 
                     using (SqlConnection connection = new SqlConnection(connectionString))
                     {
@@ -43,6 +47,10 @@ namespace TheBook
                 catch(Exception Ex)
                 {
                     throw new Exception("Cannot parse data to DB, message:\n{0}", Ex);
+                    if (Ex.InnerException != null)
+                    {
+                        
+                    }
                 }
             }
             else

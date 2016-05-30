@@ -12,3 +12,17 @@ c:\users\sanic\documents\visual studio 2013\Projects\TheBook\TheBook\obj\Debug\T
 c:\users\sanic\documents\visual studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.exe
 c:\users\sanic\documents\visual studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.pdb
 C:\Users\Sanic\documents\visual studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.Register.resources
+C:\Users\lrd\Documents\Visual Studio 2013\Projects\TheBook\TheBook\bin\Debug\TheBook.exe.config
+C:\Users\lrd\Documents\Visual Studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.exe
+C:\Users\lrd\Documents\Visual Studio 2013\Projects\TheBook\TheBook\bin\Debug\TheBookContacts.mdf
+C:\Users\lrd\Documents\Visual Studio 2013\Projects\TheBook\TheBook\bin\Debug\TheBookContacts_log.ldf
+C:\Users\lrd\Documents\Visual Studio 2013\Projects\TheBook\TheBook\bin\Debug\TheBook.exe
+C:\Users\lrd\Documents\Visual Studio 2013\Projects\TheBook\TheBook\bin\Debug\TheBook.pdb
+C:\Users\lrd\Documents\Visual Studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.csprojResolveAssemblyReference.cache
+C:\Users\lrd\Documents\Visual Studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.ConnectInformation.resources
+C:\Users\lrd\Documents\Visual Studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.Login.resources
+C:\Users\lrd\Documents\Visual Studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.MainPage.resources
+C:\Users\lrd\Documents\Visual Studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.Properties.Resources.resources
+C:\Users\lrd\Documents\Visual Studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.Register.resources
+C:\Users\lrd\Documents\Visual Studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.csproj.GenerateResource.Cache
+C:\Users\lrd\Documents\Visual Studio 2013\Projects\TheBook\TheBook\obj\Debug\TheBook.pdb
