@@ -85,6 +85,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TheBookContactsDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TheBookContactsDataSet.xsd</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="ConnectInformation.resx">
       <DependentUpon>ConnectInformation.cs</DependentUpon>
     </EmbeddedResource>
@@ -115,6 +120,17 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="TheBookContactsDataSet.xsc">
+      <DependentUpon>TheBookContactsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TheBookContactsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TheBookContactsDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TheBookContactsDataSet.xss">
+      <DependentUpon>TheBookContactsDataSet.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
